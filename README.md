@@ -37,5 +37,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jibranzadapk&show_icons=true&theme=default" alt="Jibran's GitHub Stats" />
 </p>
+
