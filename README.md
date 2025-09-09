@@ -37,6 +37,19 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jibranzadapk&show_icons=true&theme=default" alt="Jibran's GitHub Stats" />
+  <picture>
+    <!-- Dark theme -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Jibranzadapk&show_icons=true&theme=default&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=00000000" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <!-- Light theme -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Jibranzadapk&show_icons=true&theme=default&title_color=0000FF&icon_color=0000FF&text_color=0000FF&bg_color=00000000" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jibranzadapk&show_icons=true&theme=default&bg_color=00000000" alt="Jibran's GitHub Stats"/>
+  </picture>
 </p>
+
 
