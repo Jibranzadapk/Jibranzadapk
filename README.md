@@ -1,4 +1,3 @@
-<!-- Profile README -->
 
 <h1 align="center">👋 Hi, I'm M. Jibran Zada</h1>
 <h3 align="center">CS Student • Intermediate C++ Developer • Tech Enthusiast</h3>
